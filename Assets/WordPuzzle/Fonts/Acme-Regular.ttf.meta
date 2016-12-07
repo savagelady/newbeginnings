@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 215e421a045290849aa38b7a53c8522a
+timeCreated: 1477024632
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 60
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Acme
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
